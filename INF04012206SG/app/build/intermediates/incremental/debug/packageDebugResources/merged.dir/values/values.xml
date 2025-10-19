@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">INF.04-01-22.06-SG</string>
+    <style name="Base.Theme.INF04012206SG" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.INF04012206SG" parent="Base.Theme.INF04012206SG"/>
+</resources>
