@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable obraz
+id delete
+id description
+id descriptionTitle
+id divider
+id imageView
+id like
+id liked
+id save
+id title
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.INF04012206SG
+style Theme.INF04012206SG
+xml backup_rules
+xml data_extraction_rules
