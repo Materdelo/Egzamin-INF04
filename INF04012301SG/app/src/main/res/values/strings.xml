@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">INF04012301SG</string>
+    <string-array name="spinner_items">
+        <item>Kierownik</item>
+        <item>Starszy programista</item>
+        <item>Młodszy programista</item>
+        <item>Tester</item>
+    </string-array>
+</resources>

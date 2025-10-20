@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B0C4DE"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#B0C4DE"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Imię" />
+
+                <EditText
+                    android:id="@+id/nameEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10" />
+
+                <TextView
+                    android:id="@+id/surname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nazwisko" />
+
+                <EditText
+                    android:id="@+id/surnameEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="text" />
+
+                <TextView
+                    android:id="@+id/occupation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Stanowisko" />
+
+                <Spinner
+                    android:id="@+id/spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:spinnerMode="dropdown"
+                    android:entries="@array/spinner_items"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/chars"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ile znaków" />
+
+                <EditText
+                    android:id="@+id/charsEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:inputType="text" />
+
+                <CheckBox
+                    android:id="@+id/smallAndGreatLetters"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Małe i Wielkie litery" />
+
+                <CheckBox
+                    android:id="@+id/numbers"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Cyfry" />
+
+                <CheckBox
+                    android:id="@+id/specialChars"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Znaki specialne" />
+
+                <Button
+                    android:id="@+id/generatePassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#4682B4"
+                    android:text="Generuj Hasło" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#4682B4"
+            android:text="Zatwierdź"
+            tools:layout_editor_absoluteX="210dp"
+            tools:layout_editor_absoluteY="256dp" />
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
