@@ -10,26 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7386d9fd-ed69-4b93-a69d-e09d9fd0f344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/k1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/k2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/k3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/k4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/k5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/k6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/drawable/question.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INF04012406SG/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INF04012201SG/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../INF04012201SG/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INF04022301SG/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../INF04022301SG/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +42,12 @@
     &quot;assignee&quot;: &quot;Materdelo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Materdelo/Egzamin-INF04.git&quot;,
-    &quot;accountId&quot;: &quot;85a12900-9813-46c9-a122-26de4d771280&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Materdelo/Egzamin-INF04.git",
+    "accountId": "85a12900-9813-46c9-a122-26de4d771280"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -76,23 +59,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/mateuszolszowy/StudioProjects/Egzamin-INF04/INF04012206SG",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mateuszolszowy/StudioProjects/Egzamin-INF04/INF04012206SG&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="INF.04-01-22.06-SG.app" />
